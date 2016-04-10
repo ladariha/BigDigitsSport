@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="13" pc="268435459" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="18" pc="268435480" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="19" pc="268435501" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="23" pc="268435541" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="24" pc="268435559" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="25" pc="268435600" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="33" pc="268435619" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="34" pc="268435655" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="35" pc="268435696" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="40" pc="268435715" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="41" pc="268435736" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="42" pc="268435753" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="43" pc="268435766" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="44" pc="268435782" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="47" pc="268435798" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="49" pc="268435805" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="50" pc="268435831" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="51" pc="268435842" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="54" pc="268435852" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="58" pc="268435865" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="59" pc="268435876" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="62" pc="268435886" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="64" pc="268435893" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="67" pc="268435915" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="68" pc="268435987" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestView.mc" lineNum="75" pc="268436064" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestMenuDelegate.mc" lineNum="7" pc="268436085" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestMenuDelegate.mc" lineNum="11" pc="268436106" symbol="onMenuItem"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestMenuDelegate.mc" lineNum="12" pc="268436127" symbol="onMenuItem"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestMenuDelegate.mc" lineNum="13" pc="268436138" symbol="onMenuItem"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestMenuDelegate.mc" lineNum="15" pc="268436173" symbol="onMenuItem"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestDelegate.mc" lineNum="6" pc="268436200" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestDelegate.mc" lineNum="10" pc="268436221" symbol="onMenu"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestDelegate.mc" lineNum="11" pc="268436305" symbol="onMenu"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="35" pc="268436311" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="41" pc="268436332" symbol="onStart"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="42" pc="268436349" symbol="onStart"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="43" pc="268436391" symbol="onStart"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="48" pc="268436424" symbol="getSession"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="62" pc="268436442" symbol="getInitialView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="66" pc="268436542" symbol="timeNow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="70" pc="268436596" symbol="timeToday"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="75" pc="268436629" symbol="getNextView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="76" pc="268436654" symbol="getNextView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="77" pc="268436664" symbol="getNextView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="81" pc="268436687" symbol="getPreviousView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="82" pc="268436712" symbol="getPreviousView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="83" pc="268436722" symbol="getPreviousView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="87" pc="268436745" symbol="setInitialView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="91" pc="268436768" symbol="getCurrentView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="95" pc="268436791" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="96" pc="268436805" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="98" pc="268436852" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="100" pc="268436899" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="102" pc="268436946" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="104" pc="268436993" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="106" pc="268437040" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="108" pc="268437087" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="110" pc="268437134" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="112" pc="268437181" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="114" pc="268437228" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="116" pc="268437261" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="118" pc="268437291" symbol="initializeView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="122" pc="268437303" symbol="pauseViewRefresh"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="123" pc="268437316" symbol="pauseViewRefresh"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="128" pc="268437340" symbol="toString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="129" pc="268437366" symbol="toString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="131" pc="268437372" symbol="toString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="132" pc="268437398" symbol="toString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="134" pc="268437418" symbol="toString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="135" pc="268437444" symbol="toString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="138" pc="268437456" symbol="toString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="144" pc="268437462" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="145" pc="268437474" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="146" pc="268437510" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="147" pc="268437525" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="148" pc="268437572" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="149" pc="268437579" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="150" pc="268437606" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="151" pc="268437631" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="154" pc="268437686" symbol="printView"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="164" pc="268437747" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="165" pc="268437759" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="166" pc="268437795" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="167" pc="268437810" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="168" pc="268437857" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="169" pc="268437864" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="170" pc="268437891" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="171" pc="268437916" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="174" pc="268437971" symbol="printViewString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="192" pc="268438035" symbol="draw0"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="193" pc="268438070" symbol="draw0"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="194" pc="268438105" symbol="draw0"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="195" pc="268438140" symbol="draw0"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/TestApp.mc" lineNum="199" pc="268438178" symbol="draw1"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="8" pc="268438216" symbol="start"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="9" pc="268438229" symbol="start"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="11" pc="268438294" symbol="start"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="15" pc="268438315" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="19" pc="268438336" symbol="stop"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="23" pc="268438357" symbol="save"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="27" pc="268438378" symbol="discard"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="31" pc="268438399" symbol="isRunning"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="35" pc="268438436" symbol="toggle"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="36" pc="268438450" symbol="toggle"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="38" pc="268438465" symbol="toggle"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SportSession.mc" lineNum="40" pc="268438477" symbol="toggle"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SaveSessionDelegate.mc" lineNum="7" pc="268438514" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SaveSessionDelegate.mc" lineNum="13" pc="268438539" symbol="onResponse"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SaveSessionDelegate.mc" lineNum="15" pc="268438544" symbol="onResponse"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/SaveSessionDelegate.mc" lineNum="19" pc="268438581" symbol="onResponse"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="13" pc="268438618" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="17" pc="268438658" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="21" pc="268438679" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="22" pc="268438697" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="23" pc="268438754" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="27" pc="268438773" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="31" pc="268438794" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="32" pc="268438851" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="36" pc="268438870" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="37" pc="268438906" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="38" pc="268438963" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="42" pc="268438982" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="47" pc="268439003" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="48" pc="268439020" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="49" pc="268439043" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="50" pc="268439050" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MaxSpeedView.mc" lineNum="52" pc="268439060" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="12" pc="268439146" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="13" pc="268439159" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="14" pc="268439177" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="15" pc="268439195" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="17" pc="268439228" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="19" pc="268439261" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="21" pc="268439294" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="23" pc="268439327" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="25" pc="268439360" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="27" pc="268439375" symbol="onKey"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="31" pc="268439381" symbol="onSwipe"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="32" pc="268439408" symbol="onSwipe"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="34" pc="268439450" symbol="onSwipe"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="36" pc="268439465" symbol="onSwipe"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="40" pc="268439471" symbol="onTap"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="41" pc="268439483" symbol="onTap"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="45" pc="268439489" symbol="onNextPage"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="49" pc="268439559" symbol="onPreviousPage"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="54" pc="268439629" symbol="onEnter"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="55" pc="268439656" symbol="onEnter"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="59" pc="268439660" symbol="onMenu"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="60" pc="268439744" symbol="onMenu"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="64" pc="268439750" symbol="onEscape"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="65" pc="268439762" symbol="onEscape"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="66" pc="268439772" symbol="onEscape"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="69" pc="268439867" symbol="onEscape"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="77" pc="268439940" symbol="onPower"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="78" pc="268439958" symbol="onPower"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="82" pc="268439964" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/MainDelegate.mc" lineNum="83" pc="268439986" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="13" pc="268440012" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="17" pc="268440052" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="21" pc="268440073" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="22" pc="268440091" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="23" pc="268440148" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="27" pc="268440167" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="31" pc="268440188" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="32" pc="268440245" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="36" pc="268440264" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="37" pc="268440300" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="38" pc="268440357" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="42" pc="268440376" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="47" pc="268440397" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="48" pc="268440414" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="49" pc="268440437" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="50" pc="268440444" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="52" pc="268440454" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="53" pc="268440470" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="58" pc="268440561" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="59" pc="268440586" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="61" pc="268440595" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="62" pc="268440620" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="64" pc="268440629" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="65" pc="268440654" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="67" pc="268440663" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="68" pc="268440688" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="70" pc="268440697" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="71" pc="268440722" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="73" pc="268440731" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="74" pc="268440756" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="76" pc="268440765" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="77" pc="268440790" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/HeadingView.mc" lineNum="79" pc="268440799" symbol="getHeadingString"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="13" pc="268440808" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="17" pc="268440848" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="21" pc="268440869" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="22" pc="268440887" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="23" pc="268440944" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="27" pc="268440963" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="31" pc="268440984" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="32" pc="268441041" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="36" pc="268441060" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="37" pc="268441096" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="38" pc="268441153" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="42" pc="268441172" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="47" pc="268441193" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="48" pc="268441210" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="49" pc="268441233" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="50" pc="268441240" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="52" pc="268441250" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="53" pc="268441260" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="54" pc="268441276" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="55" pc="268441292" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/ElapsedTimeView.mc" lineNum="57" pc="268441302" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="13" pc="268441395" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="17" pc="268441435" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="21" pc="268441456" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="22" pc="268441474" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="23" pc="268441531" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="27" pc="268441550" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="31" pc="268441571" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="32" pc="268441628" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="36" pc="268441647" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="37" pc="268441683" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="38" pc="268441740" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="42" pc="268441759" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="47" pc="268441780" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="48" pc="268441797" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="49" pc="268441820" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="50" pc="268441827" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DistanceView.mc" lineNum="52" pc="268441837" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="13" pc="268441923" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="17" pc="268441963" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="21" pc="268441984" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="22" pc="268442002" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="23" pc="268442059" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="27" pc="268442078" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="31" pc="268442099" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="32" pc="268442156" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="36" pc="268442175" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="37" pc="268442211" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="38" pc="268442268" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="42" pc="268442287" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="47" pc="268442308" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="48" pc="268442325" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="49" pc="268442348" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="50" pc="268442355" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="52" pc="268442365" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/DescentView.mc" lineNum="53" pc="268442383" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="13" pc="268442463" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="17" pc="268442503" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="21" pc="268442524" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="22" pc="268442542" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="23" pc="268442599" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="27" pc="268442618" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="31" pc="268442639" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="32" pc="268442696" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="36" pc="268442715" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="37" pc="268442751" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="38" pc="268442808" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="42" pc="268442827" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="47" pc="268442848" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="48" pc="268442865" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="49" pc="268442888" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="50" pc="268442895" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CurrentSpeedView.mc" lineNum="52" pc="268442905" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="13" pc="268442991" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="17" pc="268443031" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="21" pc="268443052" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="22" pc="268443070" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="23" pc="268443127" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="27" pc="268443146" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="31" pc="268443167" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="32" pc="268443224" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="36" pc="268443243" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="37" pc="268443279" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="38" pc="268443336" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="42" pc="268443355" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="47" pc="268443376" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="48" pc="268443393" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="49" pc="268443416" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="50" pc="268443423" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/CaloriesView.mc" lineNum="52" pc="268443433" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="13" pc="268443513" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="17" pc="268443553" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="21" pc="268443574" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="22" pc="268443592" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="23" pc="268443649" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="27" pc="268443668" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="31" pc="268443689" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="32" pc="268443746" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="36" pc="268443765" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="37" pc="268443801" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="38" pc="268443858" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="42" pc="268443877" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="47" pc="268443898" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="48" pc="268443915" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="49" pc="268443938" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="50" pc="268443945" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AverageSpeedView.mc" lineNum="52" pc="268443955" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="13" pc="268444041" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="17" pc="268444081" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="21" pc="268444102" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="22" pc="268444120" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="23" pc="268444177" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="27" pc="268444196" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="31" pc="268444217" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="32" pc="268444274" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="36" pc="268444293" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="37" pc="268444329" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="38" pc="268444386" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="42" pc="268444405" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="47" pc="268444426" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="48" pc="268444443" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="49" pc="268444466" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="50" pc="268444473" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="52" pc="268444483" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AscentView.mc" lineNum="53" pc="268444501" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="13" pc="268444581" symbol="onLayout"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="17" pc="268444621" symbol="initialize"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="21" pc="268444642" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="22" pc="268444660" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="23" pc="268444717" symbol="update"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="27" pc="268444736" symbol="pause"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="31" pc="268444757" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="32" pc="268444814" symbol="resume"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="36" pc="268444833" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="37" pc="268444869" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="38" pc="268444926" symbol="onShow"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="42" pc="268444945" symbol="onHide"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="47" pc="268444966" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="48" pc="268444983" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="49" pc="268445006" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="50" pc="268445013" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="52" pc="268445023" symbol="onUpdate"/>
+<entry filename="/home/vlriha/projects/workspace/Test/source/AltitudeView.mc" lineNum="53" pc="268445041" symbol="onUpdate"/>
+<entry filename="Rez" lineNum="16" pc="268445121" symbol="initialize"/>
+<entry filename="Rez" lineNum="17" pc="268445139" symbol="initialize"/>
+<entry filename="Rez" lineNum="18" pc="268445191" symbol="initialize"/>
+<entry filename="Rez" lineNum="35" pc="268445246" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="36" pc="268445260" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="37" pc="268445400" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="38" pc="268445415" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="39" pc="268445467" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="40" pc="268445555" symbol="MainLayout"/>
+<entry filename="Rez" lineNum="41" pc="268445607" symbol="MainLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388698" method="true" symbol="start"/>
+<entry id="19" object="true" symbol="DistanceView"/>
+<entry id="8389101" method="true" symbol="onSwipe"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="15" object="true" symbol="MaxSpeedView"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="31" method="true" symbol="resume"/>
+<entry field="true" id="53" symbol="currentViewInstance"/>
+<entry id="8389097" method="true" symbol="onKey"/>
+<entry id="45" method="true" symbol="onEnter"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry id="8388883" method="true" symbol="discard"/>
+<entry id="17" object="true" symbol="HeadingView"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="32" method="true" symbol="getHeadingString"/>
+<entry field="true" id="55" symbol="TIME_VIEW"/>
+<entry id="37" object="true" symbol="MainMenu"/>
+<entry id="24" object="true" symbol="AscentView"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="8388783" method="true" symbol="toString"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry id="20" object="true" symbol="DescentView"/>
+<entry id="79" method="true" symbol="stopApp"/>
+<entry id="26" method="true" symbol="pause"/>
+<entry id="81" method="true" symbol="draw1"/>
+<entry id="80" method="true" symbol="draw0"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry field="true" id="63" symbol="ASCENT_VIEW"/>
+<entry field="true" id="58" symbol="DISTANCE_VIEW"/>
+<entry id="10" object="true" symbol="TestMenuDelegate"/>
+<entry id="14" object="true" symbol="SaveSessionDelegate"/>
+<entry id="8" object="true" symbol="Utils"/>
+<entry id="38" method="true" symbol="MainLayout"/>
+<entry id="77" method="true" symbol="printView"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry field="true" id="29" symbol="refreshTimer"/>
+<entry field="true" id="52" symbol="currentView"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="61" symbol="CALORIES_VIEW"/>
+<entry id="11" object="true" symbol="TestDelegate"/>
+<entry id="12" object="true" symbol="TestApp"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry id="46" method="true" symbol="onEscape"/>
+<entry field="true" id="64" symbol="DESCENT_VIEW"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="42" symbol="AppName"/>
+<entry field="true" id="65" symbol="ALTITUDE_VIEW"/>
+<entry id="25" object="true" symbol="AltitudeView"/>
+<entry field="true" id="49" symbol="MAIN_Y"/>
+<entry field="true" id="48" symbol="MAIN_X"/>
+<entry field="true" id="8388890" symbol="sport"/>
+<entry field="true" id="8388892" symbol="name"/>
+<entry field="true" id="50" symbol="DESC_Y"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="67" method="true" symbol="getSession"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry id="23" object="true" symbol="AverageSpeedView"/>
+<entry field="true" id="60" symbol="MAX_SPEED_VIEW"/>
+<entry id="83" symbol="item_2"/>
+<entry id="82" symbol="item_1"/>
+<entry field="true" id="43" symbol="app"/>
+<entry id="8389108" method="true" symbol="onResponse"/>
+<entry field="true" id="36" symbol="LauncherIcon"/>
+<entry id="70" method="true" symbol="timeToday"/>
+<entry field="true" id="40" symbol="menu_label_2"/>
+<entry field="true" id="39" symbol="menu_label_1"/>
+<entry id="47" method="true" symbol="onPower"/>
+<entry id="22" object="true" symbol="CaloriesView"/>
+<entry id="9" object="true" symbol="TestView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="16" object="true" symbol="MainDelegate"/>
+<entry field="true" id="54" symbol="currentSession"/>
+<entry field="true" id="59" symbol="ELAPSED_TIME_VIEW"/>
+<entry id="30" method="true" symbol="update"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry id="21" object="true" symbol="CurrentSpeedView"/>
+<entry id="18" object="true" symbol="ElapsedTimeView"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="51" symbol="REFRESH_INTERVAL"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="35" symbol="id_monkey"/>
+<entry id="74" method="true" symbol="getCurrentView"/>
+<entry id="8389348" symbol="font"/>
+<entry id="27" method="true" symbol="isRunning"/>
+<entry id="13" object="true" symbol="SportSession"/>
+<entry id="8389347" symbol="color"/>
+<entry id="78" method="true" symbol="printViewString"/>
+<entry field="true" id="8388651" symbol="session"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry id="68" method="true" symbol="onPosition"/>
+<entry field="true" id="44" symbol="askingForSave"/>
+<entry id="34" module="true" symbol="Layouts"/>
+<entry field="true" id="57" symbol="AVERAGE_VIEW"/>
+<entry id="73" method="true" symbol="setInitialView"/>
+<entry field="true" id="56" symbol="SPEED_VIEW"/>
+<entry id="8388642" module="true" symbol="Position"/>
+<entry field="true" id="41" symbol="prompt"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="28" method="true" symbol="toggle"/>
+<entry id="75" method="true" symbol="initializeView"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8388882" method="true" symbol="save"/>
+<entry field="true" id="66" symbol="VIEW_COUNTS"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="33" module="true" symbol="Menus"/>
+<entry id="71" method="true" symbol="getNextView"/>
+<entry id="69" method="true" symbol="timeNow"/>
+<entry id="76" method="true" symbol="pauseViewRefresh"/>
+<entry id="8388699" method="true" symbol="stop"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry id="72" method="true" symbol="getPreviousView"/>
+<entry field="true" id="62" symbol="HEADING_VIEW"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436061" name="hour" stackId="4" startPc="268435715"/>
+<entry endPc="268436061" name="min" stackId="5" startPc="268435715"/>
+<entry endPc="268436061" name="pmAm" stackId="6" startPc="268435715"/>
+<entry endPc="268436061" name="time" stackId="3" startPc="268435715"/>
+<entry endPc="268436061" name="timeStr" stackId="7" startPc="268435715"/>
+<entry endPc="268436061" name="app" stackId="2" startPc="268435715"/>
+<entry endPc="268436684" name="nextView" stackId="1" startPc="268436629"/>
+<entry endPc="268436742" name="nextView" stackId="1" startPc="268436687"/>
+<entry endPc="268437683" name="textW" stackId="5" startPc="268437579"/>
+<entry endPc="268437683" name="col2" stackId="6" startPc="268437579"/>
+<entry endPc="268437968" name="textW" stackId="5" startPc="268437864"/>
+<entry endPc="268437968" name="col2" stackId="6" startPc="268437864"/>
+<entry endPc="268439143" name="speed" stackId="3" startPc="268439003"/>
+<entry endPc="268439143" name="app" stackId="2" startPc="268439003"/>
+<entry endPc="268439378" name="key" stackId="2" startPc="268439146"/>
+<entry endPc="268440558" name="heading" stackId="3" startPc="268440397"/>
+<entry endPc="268440558" name="app" stackId="2" startPc="268440397"/>
+<entry endPc="268441392" name="hour" stackId="4" startPc="268441193"/>
+<entry endPc="268441392" name="min" stackId="5" startPc="268441193"/>
+<entry endPc="268441392" name="sec" stackId="6" startPc="268441193"/>
+<entry endPc="268441392" name="time" stackId="3" startPc="268441193"/>
+<entry endPc="268441392" name="app" stackId="2" startPc="268441193"/>
+<entry endPc="268441920" name="speed" stackId="3" startPc="268441780"/>
+<entry endPc="268441920" name="app" stackId="2" startPc="268441780"/>
+<entry endPc="268442460" name="asc" stackId="3" startPc="268442308"/>
+<entry endPc="268442460" name="app" stackId="2" startPc="268442308"/>
+<entry endPc="268442988" name="speed" stackId="3" startPc="268442848"/>
+<entry endPc="268442988" name="app" stackId="2" startPc="268442848"/>
+<entry endPc="268443510" name="cal" stackId="3" startPc="268443376"/>
+<entry endPc="268443510" name="app" stackId="2" startPc="268443376"/>
+<entry endPc="268444038" name="speed" stackId="3" startPc="268443898"/>
+<entry endPc="268444038" name="app" stackId="2" startPc="268443898"/>
+<entry endPc="268444578" name="asc" stackId="3" startPc="268444426"/>
+<entry endPc="268444578" name="app" stackId="2" startPc="268444426"/>
+<entry endPc="268445118" name="asc" stackId="3" startPc="268444966"/>
+<entry endPc="268445118" name="app" stackId="2" startPc="268444966"/>
+<entry endPc="268445634" name="rez_cmp_local_label_JT84CDWLUJ" stackId="3" startPc="268445246"/>
+<entry endPc="268445634" name="rez_cmp_local_label_JT84CDWLUJ_fontHeight" stackId="4" startPc="268445246"/>
+<entry endPc="268445634" name="rez_cmp_local_label_JT84CDWLUJ_font" stackId="2" startPc="268445246"/>
+<entry endPc="268445634" name="rez_cmp_local_bitmap_id_monkey" stackId="5" startPc="268445246"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="TestView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="TestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="update" parent="TestView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="TestView">
+<documentation><![CDATA[<div class="description"> Called when this View is brought to the foreground. Restore<br/> the state of this View and prepare it to be shown. This includes<br/> loading resources into memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onUpdate" parent="TestView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onHide" parent="TestView">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of this View here. This includes freeing resources from<br/> memory.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="TestMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenuItem" parent="TestMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="TestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="TestDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="TestApp">
+<documentation><![CDATA[<div class="description"> onStart() is called on application start up<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getSession" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPosition" parent="TestApp">
+<param id="info"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="TestApp">
+<documentation><![CDATA[<div class="description"> onStop() is called when your application is exiting<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getInitialView" parent="TestApp">
+<documentation><![CDATA[<div class="description"> Return the initial view of your application here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="timeNow" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="timeToday" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getNextView" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getPreviousView" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="setInitialView" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="getCurrentView" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="initializeView" parent="TestApp">
+<param id="viewValue"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="pauseViewRefresh" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="toString" parent="TestApp">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="printView" parent="TestApp">
+<param id="dc"/>
+<param id="description"/>
+<param id="mainText"/>
+<param id="secondaryText"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="printViewString" parent="TestApp">
+<param id="dc"/>
+<param id="description"/>
+<param id="mainText"/>
+<param id="secondaryText"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="stopApp" parent="TestApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw0" parent="TestApp">
+<param id="dc"/>
+<param id="xoffset"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="draw1" parent="TestApp">
+<param id="dc"/>
+<param id="xoffset"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="start" parent="SportSession">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="SportSession">
+<documentation/>
+</functionEntry>
+<functionEntry name="stop" parent="SportSession">
+<documentation/>
+</functionEntry>
+<functionEntry name="save" parent="SportSession">
+<documentation/>
+</functionEntry>
+<functionEntry name="discard" parent="SportSession">
+<documentation/>
+</functionEntry>
+<functionEntry name="isRunning" parent="SportSession">
+<documentation/>
+</functionEntry>
+<functionEntry name="toggle" parent="SportSession">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="SaveSessionDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onResponse" parent="SaveSessionDelegate">
+<param id="value"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="MaxSpeedView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="MaxSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="MaxSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="MaxSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="MaxSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="MaxSpeedView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="MaxSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="MaxSpeedView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onKey" parent="MainDelegate">
+<param id="event"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onSwipe" parent="MainDelegate">
+<param id="event"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onTap" parent="MainDelegate">
+<param id="event"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onNextPage" parent="MainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPreviousPage" parent="MainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnter" parent="MainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onMenu" parent="MainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEscape" parent="MainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onPower" parent="MainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="MainDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="HeadingView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="HeadingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="HeadingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="HeadingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="HeadingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="HeadingView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="HeadingView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="HeadingView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="getHeadingString" parent="HeadingView">
+<param id="degrees"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="ElapsedTimeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="ElapsedTimeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="ElapsedTimeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="ElapsedTimeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="ElapsedTimeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="ElapsedTimeView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="ElapsedTimeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="ElapsedTimeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="DistanceView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="DistanceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="DistanceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="DistanceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="DistanceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DistanceView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DistanceView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DistanceView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="DescentView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="DescentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="DescentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="DescentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="DescentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="DescentView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="DescentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="DescentView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="CurrentSpeedView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="CurrentSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="CurrentSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="CurrentSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="CurrentSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="CurrentSpeedView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="CurrentSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="CurrentSpeedView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="CaloriesView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="CaloriesView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="CaloriesView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="CaloriesView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="CaloriesView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="CaloriesView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="CaloriesView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="CaloriesView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="AverageSpeedView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="AverageSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="AverageSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="AverageSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="AverageSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="AverageSpeedView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="AverageSpeedView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AverageSpeedView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="AscentView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="AscentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="AscentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="AscentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="AscentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="AscentView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="AscentView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AscentView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="onLayout" parent="AltitudeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="AltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="update" parent="AltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="pause" parent="AltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="resume" parent="AltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="AltitudeView">
+<param id="refreshInterval"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="AltitudeView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="AltitudeView">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

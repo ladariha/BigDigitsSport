@@ -1,0 +1,6 @@
+<strings>
+    <string id="AppName">Test</string>
+    <string id="prompt">Click the menu button</string>
+    <string id="menu_label_1">Pausa</string>
+    <string id="menu_label_2">Ukoncit</string>
+</strings>
